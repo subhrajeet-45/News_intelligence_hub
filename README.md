@@ -244,4 +244,4 @@ This project is available for educational, research, and portfolio purposes.
 
 ---
 
-### Built with Google Gemini AI 🚀
+
