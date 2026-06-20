@@ -30,7 +30,7 @@ The application is designed to help users quickly understand important events, t
 
 ### 🧠 AI News Briefings
 
-* AI-generated news summaries
+* AI-generated news summaries with voice assistance
 * Category-specific briefings
 * Quick overview of major developments
 * Key takeaways from trending stories
@@ -62,6 +62,7 @@ The application is designed to help users quickly understand important events, t
 * Clean and intuitive dashboard
 * Category-based navigation
 * Optimized reading experience
+* Authentication
 
 ---
 
@@ -199,14 +200,23 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-Add screenshots of your application here:
 
-<img width="1646" height="907" alt="Screenshot 2026-06-20 090119" src="https://github.com/user-attachments/assets/90f116c7-a3c6-4ee8-853f-7a88185c3582" />
+<img width="1656" height="917" alt="image" src="https://github.com/user-attachments/assets/dae94b9d-ed2f-4d71-b554-6fe1f28221d0" />
 
 * Homepage
+<img width="1646" height="907" alt="Screenshot 2026-06-20 090119" src="https://github.com/user-attachments/assets/90f116c7-a3c6-4ee8-853f-7a88185c3582" />
 * AI Briefing Section
+
+ <img width="1642" height="906" alt="Screenshot 2026-06-20 090141" src="https://github.com/user-attachments/assets/25f40076-ec15-4458-a3ae-b99917802deb" />
+
 * Live News Intelligence Dashboard
-* Personalized Feed
+
+  <img width="1766" height="906" alt="Screenshot 2026-06-20 090222" src="https://github.com/user-attachments/assets/c77f1d40-64fc-42a7-87a1-d1d78fef108b" />
+* Categorywise search
+
+  <img width="1758" height="893" alt="Screenshot 2026-06-20 090249" src="https://github.com/user-attachments/assets/14afddb7-3e23-4950-889d-b5f675b7d41a" />
+
+* Trending News
 
 ---
 
