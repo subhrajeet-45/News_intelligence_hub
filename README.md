@@ -220,6 +220,22 @@ http://localhost:5173
 
 ---
 
+## 🎥 Project Demo
+
+Watch the complete demonstration of News Intelligence Hub:
+
+https://drive.google.com/file/d/1FGw7GuqYUAuB5eybA754ulYdu14qDbLk/view?usp=drive_link
+
+The demo showcases:
+- Real-time news aggregation
+- AI-powered news summaries
+- Intelligent news search
+- User authentication
+- Personalized recommendations
+- Saved articles & reading history
+- AI-powered news reader
+
+
 ## 🚧 Future Enhancements
 
 * Advanced sentiment analysis
