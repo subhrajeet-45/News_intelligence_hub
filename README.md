@@ -6,8 +6,8 @@
 
 ## 🚀 Live Demo
 
-**Google AI Studio App**
-https://ai.studio/apps/e3218226-5106-42cd-89db-0c7bd82eac2a
+**Google AI Studio website**
+https://news-intelligence-hub-389907065421.asia-southeast1.run.app
 
 ---
 
@@ -200,6 +200,8 @@ http://localhost:5173
 ## 📸 Screenshots
 
 Add screenshots of your application here:
+
+<img width="1646" height="907" alt="Screenshot 2026-06-20 090119" src="https://github.com/user-attachments/assets/90f116c7-a3c6-4ee8-853f-7a88185c3582" />
 
 * Homepage
 * AI Briefing Section
